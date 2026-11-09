@@ -27,3 +27,15 @@ git status
 git add .
 git commit -m "Initial commit - project setup"
 
+Step 4 — Connect to GitHub
+آدرس Repository جدیدت را جایگزین کن:
+git branch -M main
+git remote add origin https://github.com/manavaziri/Forex-Economic-Dashboard.git
+git push -u origin main
+
+git status
+
+----------------
+The font-weight
+      CSS property sets the thickness or thinness of characters in a typeface.
+
