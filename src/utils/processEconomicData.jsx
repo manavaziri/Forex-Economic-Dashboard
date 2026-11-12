@@ -52,7 +52,7 @@ function getWeekInfo(date, weekStartDay = 0) {
     daysSinceStart,
   };
 }
-
+//===========================
 const weekStartDay = 6;
 const importanceLabels = {
     1: "Low",
